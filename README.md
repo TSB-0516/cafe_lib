@@ -1,1 +1,2 @@
-# cafe_lib
+<h2>Library Cafe</h2>
+<h3>As a whole this project also has a library management system where a database of books are stored and it can collect information on when it was borrowed , when it was returned and the popularity of each book. The Café however is mainly to deal with the orders in the café taken as the customer reads in the Library Café. Like any ordering site , the Café section can also calculate the cost of your bill. </h3>
